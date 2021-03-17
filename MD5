@@ -1,0 +1,11 @@
+e5ceb3f9d5a330cc2d83b6386570381e *DESCRIPTION
+29534b4a4091b8f944b10c39b53da8f2 *NAMESPACE
+489e0bcb89cac5edbfc21d54c3309b2b *R/findPlayerSet.R
+cffebf2cad8388c7bd3118235e88809a *R/penaltyPlot.R
+ab07ab544908c032a96af15b1622ed5b *R/penaltyPrint.R
+d5c178e31d9a81091625ec9470c0fd6e *build/partial.rdb
+f606327a9c229660066f31bea6b1f041 *data/penalties.rda
+fa3748e764a653ed7a5377b589f3744d *man/footballpenaltiesBL-package.Rd
+185375f705c53ae686df781143fe636c *man/penalties.Rd
+d07d907d10af083ea4580776aae9f78a *man/penaltyPlot.Rd
+8ccf1d7b7547363265c96dc22f871c95 *man/penaltyPrint.Rd

@@ -1,0 +1,5 @@
+export(penaltyPrint)
+export(penaltyPlot)
+importFrom("graphics", "axis", "axis.Date", "box", "legend",
+            "plot.new", "plot.window", "points", "title")
+importFrom("stats", "runif")
